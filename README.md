@@ -1,5 +1,8 @@
 ### QGIS Plugin Ideas
 
+#### Monthly Rasters Statistics
+This plugin loops through monthly rasters and adds zonal statistic columns like count, sum or mean to a vector layer.
+
 #### Minimize Legend
 This plugin removes legend entries of a layer if value does not exist.
 
