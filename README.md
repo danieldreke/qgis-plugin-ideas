@@ -1,5 +1,11 @@
 ### QGIS Plugin Ideas
 
+#### Within Range Of
+This plugin checks wether cells of one raster are within range of cells of another raster. Distance is given in number of cells or units which will be rounded to number of cells.
+
+#### Neighbourhood Sum
+This plugin calculates the sum of a neighbourhood of cells. Shape can be of any size and of box or circular type.
+
 #### Monthly Rasters Statistics
 This plugin loops through monthly rasters and adds zonal statistic columns like count, sum or mean to a vector layer.
 
