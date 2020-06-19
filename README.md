@@ -11,3 +11,6 @@ This plugin is inspired by existing Raster Calculator, but allows:
   - CRS
   - No data value
   - Compression
+  
+#### Save Raster
+This plugin allows setting data type additionally to `Export > Save as` options.
